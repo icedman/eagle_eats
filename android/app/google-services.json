@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520346580008",
+    "project_id": "eagleeats-53b74",
+    "storage_bucket": "eagleeats-53b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520346580008:android:4ff46d7e96e9937a82711d",
+        "android_client_info": {
+          "package_name": "com.example.eagle_eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520346580008-cd6dfmm7m0brghddu493knd5tkk043jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAquS5TNgsjhGKfh2wU55QGQc2owOjGeFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520346580008-cd6dfmm7m0brghddu493knd5tkk043jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
